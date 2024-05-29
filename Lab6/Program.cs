@@ -39,7 +39,7 @@ namespace Lab6
             {
                 ID = 1;
             }
-            Console.WriteLine("Введите ФИО");
+            Console.WriteLine("Введите ФИО1");
             FIO = Console.ReadLine();
             Console.WriteLine("Введите возраст");
             Age = int.Parse(Console.ReadLine());
